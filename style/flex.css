@@ -1,14 +1,15 @@
 .parent{
     padding: 25px;
     background-color: rgb(93, 76, 53);
+    display: flex;
 }
 
 .child{
-    border: 2px;
+    border: 2px solid rgb(142, 161, 135);
     background: wheat;
     padding: 20px;
-    margin: 10px;
-    font-size: 30px;
+    margin: 10px 1px;
+    font-size: 20px;
     /* display: inline; */
     /* width: 500px; */
 }
